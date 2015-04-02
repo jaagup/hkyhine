@@ -12,9 +12,10 @@
 			<li><input type="checkbox" name="omadused[]" value="tark">Tark</li>
 			<li><input type="checkbox" name="omadused[]" value="osav">OsavLoom</li>
 			<li><input type="checkbox" name="omadused[]" value="kaunis">Kaunis</li>
-			<li><input type="checkbox" name="omadused[]" value="ylikiire">Ülikiire</li>
+			<li><input type="checkbox" name="omadused[]" value="käbe">Ülikiire</li>
 			<li><input type="checkbox" name="omadused[]" value="kaval">KavalRebane</li>
 		</ul>
+		<input type="submit" value="Go!">
 	</form>
 </body>
 </html>
