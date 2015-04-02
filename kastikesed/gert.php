@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
   <head>
+  <meta charset="UTF-8">
     <title>Omaduste loetelu</title>
   </head>
   <body>
