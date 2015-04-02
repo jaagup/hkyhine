@@ -8,12 +8,12 @@
 	   Palun eesnimi: <input type="text" name="eesnimi" /><br />
 	   Vali talle sobivad omadused:
 	   <ul>
-	     <li><input type="checkbox" name="omadused[]" value="ilus"/>Ilus</li>
-	     <li><input type="checkbox" name="omadused[]" value="tark"/>Tark</li>
-	     <li><input type="checkbox" name="omadused[]" value="osav"/>Osav</li>
-	     <li><input type="checkbox" name="omadused[]" value="kaunis"/>Kaunis</li>
-	     <li><input type="checkbox" name="omadused[]" value="käbe"/>Käbe</li>
-	     <li><input type="checkbox" name="omadused[]" value="kaval"/>Kaval</li>
+	     <li><input type="checkbox" name="omadused[]" value="suur"/>Ilus</li>
+	     <li><input type="checkbox" name="omadused[]" value="õhuke"/>Tark</li>
+	     <li><input type="checkbox" name="omadused[]" value="pizza"/>Osav</li>
+	     <li><input type="checkbox" name="omadused[]" value="malbe"/>Kaunis</li>
+	     <li><input type="checkbox" name="omadused[]" value="aeglane"/>Käbe</li>
+	     <li><input type="checkbox" name="omadused[]" value="võiduhimuline"/>Kaval</li>
 	   </ul>
 	   
 	</form>
