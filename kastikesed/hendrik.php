@@ -15,7 +15,6 @@
 	     <li><input type="checkbox" name="omadused[]" value="käbe"/>Käbe</li>
 	     <li><input type="checkbox" name="omadused[]" value="kaval"/>Kaval</li>
 	   </ul>
-	   <input type="submit" value="Vaata" />
 	</form>
   </body>
 </html>
