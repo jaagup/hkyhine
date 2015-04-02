@@ -1,0 +1,2 @@
+# hkyhine
+Ühistegevus Haapsalus
