@@ -10,7 +10,7 @@
 	 if(isSet($_REQUEST["omadused"])){
 	  echo $_REQUEST["eesnimi"]." on ".join(", ", $_REQUEST["omadused"]);
 	 } else {
-	  echo "Omadusi pole valitud".
+	  echo "Omadusi pole valitud";
 	 }
 	?>
   </body>
