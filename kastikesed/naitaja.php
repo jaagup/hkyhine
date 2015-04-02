@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
   <head>
+  	<meta charset="utf-8">
     <title>Omaduste näitamise leht</title>
   </head>
   <body>
@@ -10,7 +11,7 @@
 	 if(isSet($_REQUEST["omadused"])){
 	  echo $_REQUEST["eesnimi"]." on ".join(", ", $_REQUEST["omadused"]);
 	 } else {
-	  echo "Omadusi pole valitud".
+	  echo "Omadusi pole valitud";
 	 }
 	?>
   </body>
